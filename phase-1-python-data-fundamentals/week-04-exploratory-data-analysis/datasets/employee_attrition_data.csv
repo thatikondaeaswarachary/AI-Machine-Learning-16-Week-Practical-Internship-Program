@@ -1,0 +1,251 @@
+Emp_ID,Age,Department,Education,Years_Experience,Salary,Job_Satisfaction,Performance_Rating,Attrition
+EMP-2000,50,Sales,High School,25,104995.89,4,Medium,No
+EMP-2001,36,HR,Master,13,78324.28,2,High,No
+EMP-2002,29,Sales,Bachelor,6,48458.87,3,Medium,No
+EMP-2003,42,Product,PhD,19,85166.89,3,High,No
+EMP-2004,40,Engineering,High School,17,68641.03,3,High,No
+EMP-2005,44,Product,PhD,21,82225.75,2,High,No
+EMP-2006,32,Product,High School,9,69029.39,2,Medium,No
+EMP-2007,32,Sales,Master,8,60083.24,4,Low,Yes
+EMP-2008,45,Engineering,Bachelor,21,100275.06,3,Medium,Yes
+EMP-2009,57,Sales,High School,33,121303.68,4,Outstanding,Yes
+EMP-2010,45,Marketing,High School,21,112475.38,2,Outstanding,No
+EMP-2011,24,Sales,High School,1,45150.12,3,High,No
+EMP-2012,43,Sales,High School,18,74948.76,3,High,No
+EMP-2013,23,Sales,Bachelor,1,41923.76,1,High,Yes
+EMP-2014,45,Engineering,Bachelor,22,82895.87,3,Medium,No
+EMP-2015,51,Sales,Master,29,111617.44,2,Outstanding,No
+EMP-2016,59,Engineering,Bachelor,34,121735.84,1,Medium,No
+EMP-2017,23,HR,High School,0,41101.83,5,Medium,No
+EMP-2018,42,Marketing,Master,17,83006.94,3,High,No
+EMP-2019,54,Engineering,Master,31,116322.73,4,Low,No
+EMP-2020,33,HR,Master,9,60580.3,3,Medium,No
+EMP-2021,43,Engineering,High School,20,92416.4,4,High,Yes
+EMP-2022,46,Engineering,PhD,22,101164.57,4,Low,No
+EMP-2023,48,Marketing,High School,26,94462.87,4,High,No
+EMP-2024,49,Product,Bachelor,27,91991.63,3,Medium,No
+EMP-2025,37,Product,Bachelor,15,68896.28,3,Medium,No
+EMP-2026,36,Engineering,High School,11,76480.87,3,Medium,No
+EMP-2027,24,Sales,High School,1,45139.83,5,Medium,No
+EMP-2028,58,HR,Master,33,124240.6,4,High,No
+EMP-2029,28,Sales,High School,6,67303.5,5,Medium,No
+EMP-2030,42,Sales,Master,19,85847.63,2,High,No
+EMP-2031,30,Engineering,Bachelor,8,51128.5,4,Medium,No
+EMP-2032,39,Engineering,Master,14,85859.39,5,High,Yes
+EMP-2033,25,Engineering,High School,0,47010.89,2,Outstanding,Yes
+EMP-2034,46,Engineering,Bachelor,21,99779.58,1,High,No
+EMP-2035,35,Product,PhD,13,77129.59,4,Medium,Yes
+EMP-2036,30,Engineering,Master,7,49927.94,4,Low,No
+EMP-2037,47,Product,Bachelor,24,106056.04,4,Medium,No
+EMP-2038,23,Product,Master,1,49440.98,2,High,Yes
+EMP-2039,41,Engineering,Bachelor,18,76968.77,4,Low,No
+EMP-2040,49,Marketing,Bachelor,27,101835.59,2,Medium,Yes
+EMP-2041,28,HR,Master,5,55257.66,2,High,Yes
+EMP-2042,29,Sales,PhD,5,55591.45,2,Medium,Yes
+EMP-2043,56,Product,Bachelor,32,121775.31,4,High,No
+EMP-2044,35,HR,Bachelor,10,80098.85,4,Medium,No
+EMP-2045,38,Marketing,Bachelor,14,75258.45,3,Low,No
+EMP-2046,57,Sales,PhD,33,127647.05,3,High,No
+EMP-2047,25,Sales,PhD,1,54505.62,5,Medium,No
+EMP-2048,23,Product,High School,1,44058.37,3,High,Yes
+EMP-2049,27,Engineering,Master,3,52409.45,4,Medium,No
+EMP-2050,25,Marketing,PhD,1,37379.48,3,Medium,Yes
+EMP-2051,50,Product,Master,25,89593.85,3,High,No
+EMP-2052,39,Marketing,High School,15,78720.18,3,High,Yes
+EMP-2053,47,Engineering,Master,23,88152.57,3,High,No
+EMP-2054,55,Engineering,PhD,32,112282.91,4,Medium,No
+EMP-2055,31,Product,Master,6,55522.7,3,High,No
+EMP-2056,57,Engineering,PhD,32,102692.03,2,Medium,No
+EMP-2057,35,HR,Master,10,71458.44,5,Low,No
+EMP-2058,52,Sales,PhD,27,102683.75,3,Outstanding,No
+EMP-2059,36,Product,PhD,11,71441.59,3,Medium,No
+EMP-2060,29,Marketing,Master,4,48255.04,5,Outstanding,Yes
+EMP-2061,35,HR,High School,13,65921.46,4,Medium,No
+EMP-2062,44,Product,Bachelor,20,100883.04,2,Medium,No
+EMP-2063,42,Engineering,High School,17,85028.41,5,High,No
+EMP-2064,37,Engineering,Master,13,77396.61,4,Outstanding,No
+EMP-2065,39,Engineering,High School,15,67233.03,3,High,No
+EMP-2066,45,Engineering,PhD,23,109712.29,2,High,No
+EMP-2067,47,Marketing,Bachelor,22,109747.31,4,High,No
+EMP-2068,46,HR,Master,23,103707.48,4,High,No
+EMP-2069,50,Sales,Master,28,108230.13,3,High,No
+EMP-2070,36,Marketing,Master,13,70921.15,5,Medium,No
+EMP-2071,22,Marketing,Bachelor,0,43536.59,4,Medium,No
+EMP-2072,46,Sales,PhD,22,101184.16,2,Medium,No
+EMP-2073,28,Sales,Master,6,48171.44,3,Outstanding,No
+EMP-2074,30,Engineering,High School,8,54044.01,2,Outstanding,Yes
+EMP-2075,45,Marketing,Master,22,77246.94,4,Low,No
+EMP-2076,22,Product,Master,0,33825.45,1,High,Yes
+EMP-2077,29,Sales,Master,6,68690.41,4,Outstanding,No
+EMP-2078,45,Sales,Master,23,87926.02,4,Medium,No
+EMP-2079,32,HR,PhD,9,59457.22,5,High,No
+EMP-2080,38,Product,High School,16,77742.14,3,Outstanding,No
+EMP-2081,29,Product,PhD,6,42502.18,4,Low,No
+EMP-2082,56,Sales,High School,34,122363.05,2,High,No
+EMP-2083,56,Engineering,Master,34,124931.25,4,Medium,Yes
+EMP-2084,54,HR,Bachelor,32,113418.37,2,Outstanding,No
+EMP-2085,26,Product,PhD,1,62010.81,3,Outstanding,No
+EMP-2086,49,Sales,Bachelor,26,88785.35,4,Outstanding,No
+EMP-2087,28,Product,PhD,5,67949.73,2,Medium,No
+EMP-2088,30,HR,Master,7,51754.07,2,Outstanding,Yes
+EMP-2089,29,HR,PhD,7,45160.64,4,High,Yes
+EMP-2090,33,Marketing,Master,10,62300.86,4,Medium,No
+EMP-2091,55,Sales,PhD,32,127576.05,4,High,No
+EMP-2092,54,HR,Master,32,110244.46,4,Low,No
+EMP-2093,44,Marketing,Master,20,80939.27,3,High,No
+EMP-2094,45,Marketing,High School,23,80240.46,3,Medium,No
+EMP-2095,58,Product,Master,35,118359.05,3,Medium,No
+EMP-2096,56,Product,High School,34,98840.31,2,Low,No
+EMP-2097,43,Marketing,Master,19,75798.46,5,High,No
+EMP-2098,48,Product,Bachelor,26,109544.54,4,Medium,No
+EMP-2099,56,HR,Master,33,125386.11,3,High,No
+EMP-2100,22,Engineering,Bachelor,0,38972.7,3,Low,No
+EMP-2101,56,HR,Bachelor,31,111074.68,5,Medium,No
+EMP-2102,58,Marketing,Master,35,119668.07,2,High,No
+EMP-2103,35,Marketing,Bachelor,11,87383.98,4,High,No
+EMP-2104,24,HR,High School,0,47639.8,3,Medium,No
+EMP-2105,22,Product,PhD,0,47277.91,4,High,No
+EMP-2106,26,Product,Master,4,47180.34,1,Outstanding,Yes
+EMP-2107,47,Marketing,Bachelor,25,95487.17,5,High,No
+EMP-2108,35,Sales,Master,12,73777.3,5,Medium,No
+EMP-2109,48,Product,High School,23,98208.76,4,Low,No
+EMP-2110,30,HR,Master,8,42420.98,4,Outstanding,No
+EMP-2111,36,Product,Master,11,81044.33,5,Low,No
+EMP-2112,36,HR,Bachelor,14,65878.93,4,Outstanding,No
+EMP-2113,47,Marketing,High School,23,111890.54,2,High,Yes
+EMP-2114,34,Product,PhD,12,71894.79,4,Outstanding,No
+EMP-2115,53,HR,PhD,28,108767.78,4,High,No
+EMP-2116,53,Marketing,Bachelor,29,111714.62,3,Outstanding,No
+EMP-2117,25,Sales,Master,1,45732.02,4,Medium,Yes
+EMP-2118,51,HR,Bachelor,27,99908.54,5,High,No
+EMP-2119,58,Sales,Bachelor,33,120860.79,5,Medium,No
+EMP-2120,44,Sales,Bachelor,21,95479.92,3,Medium,No
+EMP-2121,36,Engineering,Master,13,67083.76,2,High,No
+EMP-2122,50,Product,High School,27,96622.1,5,Outstanding,No
+EMP-2123,57,HR,Bachelor,32,114156.09,4,Outstanding,Yes
+EMP-2124,34,Sales,Master,10,74016.09,2,High,No
+EMP-2125,53,Engineering,High School,30,119820.4,5,Medium,No
+EMP-2126,28,Marketing,Bachelor,3,56096.11,5,Medium,No
+EMP-2127,43,HR,PhD,20,90850.51,3,High,No
+EMP-2128,49,Sales,High School,27,94362.39,4,Medium,No
+EMP-2129,23,Product,Bachelor,0,49214.04,3,Medium,No
+EMP-2130,27,Engineering,High School,4,55413.9,1,Medium,Yes
+EMP-2131,49,Sales,High School,25,93718.98,3,Medium,No
+EMP-2132,49,Product,High School,24,85098.63,4,Medium,No
+EMP-2133,41,Sales,High School,17,72035.44,1,Medium,No
+EMP-2134,51,HR,High School,27,98446.38,3,Low,Yes
+EMP-2135,32,HR,High School,8,71295.5,3,Low,No
+EMP-2136,49,HR,Bachelor,25,111822.88,3,Outstanding,Yes
+EMP-2137,46,Engineering,PhD,22,89283.86,5,Medium,No
+EMP-2138,54,HR,Master,31,107136.68,3,Medium,No
+EMP-2139,22,Product,High School,0,42092.98,3,High,No
+EMP-2140,48,Sales,Master,24,97297.17,4,Medium,No
+EMP-2141,34,Marketing,Bachelor,9,73847.47,3,Outstanding,No
+EMP-2142,24,Product,High School,2,40214.5,2,High,Yes
+EMP-2143,27,Product,PhD,4,58593.14,3,Low,No
+EMP-2144,29,HR,Master,6,53486.2,2,Medium,Yes
+EMP-2145,48,Engineering,High School,25,104031.8,2,Outstanding,Yes
+EMP-2146,30,Sales,Bachelor,6,55431.68,3,Outstanding,Yes
+EMP-2147,58,Engineering,PhD,34,114295.24,3,Medium,No
+EMP-2148,54,Sales,Master,30,125698.54,5,High,No
+EMP-2149,45,Sales,Master,20,99121.82,3,Medium,No
+EMP-2150,36,Engineering,High School,14,56463.64,4,Outstanding,No
+EMP-2151,53,Product,PhD,29,104625.81,4,Medium,No
+EMP-2152,53,Sales,PhD,31,117839.38,1,Outstanding,No
+EMP-2153,45,Engineering,PhD,20,81026.72,4,High,No
+EMP-2154,33,Sales,PhD,10,70365.43,2,High,Yes
+EMP-2155,23,Marketing,Bachelor,0,47536.45,5,High,No
+EMP-2156,24,Product,PhD,2,38806.83,2,Medium,Yes
+EMP-2157,58,HR,Master,36,119129.46,3,Medium,No
+EMP-2158,38,Sales,Master,14,58479.86,1,Medium,Yes
+EMP-2159,23,Marketing,Bachelor,0,56363.45,5,Medium,No
+EMP-2160,23,HR,Master,0,39727.26,3,High,Yes
+EMP-2161,49,HR,Master,26,105830.5,4,Medium,No
+EMP-2162,44,Sales,PhD,19,93310.73,1,Low,Yes
+EMP-2163,58,Engineering,Master,36,130063.05,4,Outstanding,No
+EMP-2164,53,Sales,Bachelor,31,104733.57,2,Outstanding,No
+EMP-2165,54,Marketing,PhD,32,112030.58,5,Outstanding,No
+EMP-2166,22,HR,High School,0,44472.87,2,Outstanding,Yes
+EMP-2167,40,Sales,PhD,18,86580.33,2,Medium,Yes
+EMP-2168,23,Engineering,Bachelor,0,51434.83,1,Medium,Yes
+EMP-2169,47,Sales,PhD,24,91180.95,3,High,No
+EMP-2170,53,Product,PhD,29,102886.18,4,High,No
+EMP-2171,27,Engineering,Bachelor,5,61880.89,1,Medium,No
+EMP-2172,53,Marketing,PhD,31,91903.39,4,High,Yes
+EMP-2173,25,HR,Bachelor,2,59160.26,3,Medium,No
+EMP-2174,32,Sales,Bachelor,8,59581.41,3,Medium,No
+EMP-2175,38,Engineering,High School,13,75163.5,3,High,No
+EMP-2176,59,Product,Master,35,115941.26,3,High,No
+EMP-2177,45,Engineering,Master,22,90214.44,4,High,No
+EMP-2178,26,Product,PhD,3,58969.11,2,Low,Yes
+EMP-2179,55,Marketing,PhD,31,118766.9,2,Outstanding,Yes
+EMP-2180,27,HR,High School,2,54941.49,5,Medium,No
+EMP-2181,43,Marketing,High School,18,86910.98,5,Medium,No
+EMP-2182,32,Sales,High School,10,50435.12,3,Outstanding,Yes
+EMP-2183,37,Engineering,Bachelor,12,66246.9,3,Outstanding,No
+EMP-2184,54,Product,High School,30,107654.39,4,Outstanding,Yes
+EMP-2185,30,Product,High School,7,61261.41,3,High,No
+EMP-2186,27,Engineering,PhD,5,51557.22,1,High,Yes
+EMP-2187,37,Engineering,High School,15,80868.03,2,High,Yes
+EMP-2188,50,Sales,Bachelor,27,105389.02,4,Low,No
+EMP-2189,24,Marketing,Bachelor,0,44834.8,4,Medium,No
+EMP-2190,41,Product,PhD,18,100006.09,1,Medium,No
+EMP-2191,57,Sales,High School,32,120249.81,2,Medium,No
+EMP-2192,40,Marketing,High School,17,76144.46,2,High,No
+EMP-2193,47,Sales,Bachelor,23,109879.74,4,Medium,No
+EMP-2194,24,Product,High School,0,54003.29,1,Low,Yes
+EMP-2195,40,Engineering,High School,16,94128.7,2,Medium,No
+EMP-2196,41,Engineering,High School,19,80912.54,4,High,No
+EMP-2197,53,Marketing,Master,30,116010.47,2,Low,No
+EMP-2198,28,HR,PhD,6,41577.2,4,Outstanding,No
+EMP-2199,54,Marketing,Master,32,116672.05,2,Medium,No
+EMP-2200,39,HR,PhD,17,76138.21,1,Medium,Yes
+EMP-2201,22,Sales,Bachelor,0,29159.54,2,High,Yes
+EMP-2202,32,Sales,High School,9,70260.8,4,High,No
+EMP-2203,49,Product,PhD,27,84918.95,5,Medium,No
+EMP-2204,46,HR,Master,23,77498.35,4,High,No
+EMP-2205,44,Product,High School,21,91299.81,3,High,No
+EMP-2206,52,Engineering,Bachelor,28,110570.78,4,Medium,No
+EMP-2207,51,HR,PhD,26,111564.19,2,Outstanding,No
+EMP-2208,56,Marketing,PhD,31,120735.7,3,High,No
+EMP-2209,28,Engineering,PhD,5,65013.27,5,High,No
+EMP-2210,37,Engineering,High School,13,78601.94,1,Outstanding,No
+EMP-2211,47,Marketing,Master,24,93941.6,1,Outstanding,No
+EMP-2212,23,Engineering,Master,0,41611.11,2,High,Yes
+EMP-2213,22,HR,PhD,0,37742.23,1,High,Yes
+EMP-2214,33,Product,Bachelor,9,66563.82,2,High,No
+EMP-2215,26,Engineering,Bachelor,1,40021.23,4,High,No
+EMP-2216,58,HR,Master,34,121927.38,3,High,No
+EMP-2217,53,Sales,Bachelor,31,107508.69,5,High,No
+EMP-2218,30,HR,Master,6,59805.08,4,Medium,No
+EMP-2219,56,Product,PhD,32,117029.78,3,Outstanding,No
+EMP-2220,40,HR,Master,16,59981.88,3,Outstanding,No
+EMP-2221,37,Marketing,Master,13,65789.65,3,Low,Yes
+EMP-2222,24,Product,PhD,0,43530.97,4,High,No
+EMP-2223,41,Sales,Bachelor,19,81356.12,3,Medium,No
+EMP-2224,45,Marketing,Master,20,92675.11,4,Medium,No
+EMP-2225,54,HR,Master,29,112818.79,3,High,No
+EMP-2226,45,Product,PhD,21,102729.87,4,Medium,No
+EMP-2227,32,Sales,Bachelor,9,64499.67,3,High,Yes
+EMP-2228,29,Marketing,Master,6,52895.81,3,High,No
+EMP-2229,57,Sales,PhD,32,104207.01,5,High,No
+EMP-2230,59,HR,Master,34,110451.28,4,Low,No
+EMP-2231,41,Sales,High School,17,86083.93,2,Medium,Yes
+EMP-2232,56,Engineering,PhD,31,123283.57,5,High,No
+EMP-2233,46,Marketing,Bachelor,22,105130.97,3,Outstanding,No
+EMP-2234,56,Sales,Bachelor,33,108176.86,5,High,No
+EMP-2235,46,HR,Bachelor,23,90369.08,4,Medium,No
+EMP-2236,50,HR,Bachelor,28,103538.67,3,High,Yes
+EMP-2237,39,Sales,Master,16,93779.19,1,High,Yes
+EMP-2238,39,HR,Master,14,78318.89,3,High,No
+EMP-2239,23,Product,Bachelor,0,54610.1,3,Medium,Yes
+EMP-2240,56,Product,Bachelor,32,116159.78,4,High,No
+EMP-2241,37,Product,Bachelor,14,82225.96,3,High,Yes
+EMP-2242,57,Engineering,Master,35,125212.64,2,Outstanding,No
+EMP-2243,54,Sales,Bachelor,31,111728.71,4,Medium,No
+EMP-2244,25,Engineering,Bachelor,1,38436.93,5,High,No
+EMP-2245,54,HR,High School,30,108247.24,3,Outstanding,No
+EMP-2246,35,Engineering,High School,10,80512.36,2,Medium,No
+EMP-2247,42,HR,Bachelor,19,91022.6,3,Outstanding,No
+EMP-2248,41,HR,PhD,17,78330.8,1,High,No
+EMP-2249,29,Marketing,Bachelor,7,52661.53,5,Low,No

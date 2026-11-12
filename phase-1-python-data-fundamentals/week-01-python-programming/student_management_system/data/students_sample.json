@@ -1,0 +1,72 @@
+[
+    {
+        "student_id": "NGS-101",
+        "name": "Aarav Sharma",
+        "age": 21,
+        "course": "AI & Machine Learning",
+        "marks": {
+            "Python Programming": 94.0,
+            "Mathematics for ML": 88.0,
+            "Data Science": 92.5
+        },
+        "total_marks": 274.5,
+        "percentage": 91.5,
+        "grade": "A+"
+    },
+    {
+        "student_id": "NGS-102",
+        "name": "Diya Patel",
+        "age": 22,
+        "course": "AI & Machine Learning",
+        "marks": {
+            "Python Programming": 82.0,
+            "Mathematics for ML": 78.5,
+            "Data Science": 85.0
+        },
+        "total_marks": 245.5,
+        "percentage": 81.83,
+        "grade": "A"
+    },
+    {
+        "student_id": "NGS-103",
+        "name": "Rohan Verma",
+        "age": 20,
+        "course": "Data Analytics",
+        "marks": {
+            "Python Programming": 70.0,
+            "Mathematics for ML": 65.0,
+            "Data Science": 72.0
+        },
+        "total_marks": 207.0,
+        "percentage": 69.0,
+        "grade": "C"
+    },
+    {
+        "student_id": "NGS-104",
+        "name": "Ananya Iyer",
+        "age": 23,
+        "course": "AI & Machine Learning",
+        "marks": {
+            "Python Programming": 96.0,
+            "Mathematics for ML": 95.0,
+            "Data Science": 98.0
+        },
+        "total_marks": 289.0,
+        "percentage": 96.33,
+        "grade": "A+"
+    },
+    {
+        "student_id": "NGS-105",
+        "name": "Kabir Mehta",
+        "age": 21,
+        "course": "Computer Science",
+        "marks": {
+            "Python Programming": 58.0,
+            "Mathematics for ML": 52.0,
+            "Data Science": 55.0
+        },
+        "total_marks": 165.0,
+        "percentage": 55.0,
+        "grade": "D"
+    }
+]
