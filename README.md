@@ -1,6 +1,8 @@
 # AI & Machine Learning 16-Week Practical Internship Program
 ### Next Gen Software Hub Pvt. Ltd.
 
+![AI & Machine Learning 16-Week Internship Banner](linkedin_showcase_banner.jpg)
+
 Welcome to the **16-Week Practical AI & Machine Learning Internship** at **Next Gen Software Hub Pvt. Ltd.** This program is structured to provide students with hands-on, practical engineering experience across Python, Data Analysis, Machine Learning, Deep Learning, Computer Vision, NLP, Recommendation Systems, and AI Application Deployment.
 
 ---
